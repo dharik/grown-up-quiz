@@ -1,5 +1,5 @@
 # What is this?
-My plan is to put together a series of questions, based on my experiences, that might encourage somebody to start exploring those topics. Eventually, I'd like to make it a guided quiz with explanations of why each question is important and links to resources to learn more. 
+My plan is to put together a series of questions, based on my experiences, that might encourage somebody to start exploring  topics related to living in the "real world." Eventually, I'd like to make it a guided quiz with explanations of why each question is important and links to resources to learn more. 
 
 # The Questions
 
