@@ -15,6 +15,13 @@ My plan is to put together a series of questions, based on my experiences, that 
 ## Health
 * Can you recall the last time **you** scheduled a routine blood test?
 * Do you know what routine checkups your health insurance covers?
+* Does your dental insurance cover free cleanings? How often? 
+
+## Goal-setting
+* Do you know what you want?
+
+## Hobbies
+* Do you have any?
 
 # Inspiration
 When I graduated college and had a full-time job lined up, I was not ready to live in the "real world." There were things I didn't understand that I wish I had. For example, refinancing my student loans or taking advantage of my health care plan. 
