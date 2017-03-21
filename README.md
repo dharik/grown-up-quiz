@@ -4,17 +4,17 @@ My plan is to put together a series of questions, based on my experiences, that 
 # The Questions
 
 ## Finance
-* Can you approximate how much money you have in your savings account right now?
-* Do you know how to look up your credit score?
-* Do you know how much total debt you have?
-* Can you estimate how long you'd last if you lost your largest source of income?
-* Do you know of any tools to help you calculate total interest paid on a loan? 
+* About how much cash is in your savings account?
+* What's your credit score trend in the last 6 months?
+* How much total debt you have? Student loans, car loans, home loans, credit card bills?
+* How many months would you last on savings if you lost your largest source of income?
+* What was the interest rate of the last loan you took? How long did you take to pay it off? How much interest did you pay in total?
   * For example: $10,000 at 4%, with payments of $100/month
 * What % of your income do you spend on rent? Car? Groceries?
 
 ## Health
-* Can you recall the last time **you** scheduled a routine blood test?
-* Do you know what routine checkups your health insurance covers?
+* When was your last routine blood test?
+* What routine checkups does your health insurance cover?
 * Does your dental insurance cover free cleanings? How often? 
 
 ## Goal-setting
